@@ -1,0 +1,7 @@
+<launch>
+  <node pkg="simbody_msm" type="listener" name="listener_node" output="screen">
+ 
+  </node>
+
+</launch>
+
